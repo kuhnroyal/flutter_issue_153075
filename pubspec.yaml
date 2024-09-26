@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   easy_localization:
     git:
-      url: git@github.com:rekire/easy_localization_fork.git
+      url: https://github.com/rekire/easy_localization_fork.git
       ref: shared_preferences_fix
 
 dev_dependencies:

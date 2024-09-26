@@ -55,7 +55,7 @@ packages:
       path: "."
       ref: shared_preferences_fix
       resolved-ref: "7d49612e0321f62ae88dbe3f3ad0eb910b4dbd3a"
-      url: "git@github.com:rekire/easy_localization_fork.git"
+      url: "https://github.com/rekire/easy_localization_fork.git"
     source: git
     version: "3.0.7"
   easy_logger:
