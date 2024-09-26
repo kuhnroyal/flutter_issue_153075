@@ -15,6 +15,9 @@ dependencies:
       url: https://github.com/rekire/easy_localization_fork.git
       ref: shared_preferences_fix
 
+  ### This causes the issue
+  jni: 0.10.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
